@@ -1,4 +1,6 @@
 streamlit
 pandas
-python-docx
-openpyxl
+numpy
+matplotlib
+scikit-learn
+openpyxl  # (only if using Excel files)
